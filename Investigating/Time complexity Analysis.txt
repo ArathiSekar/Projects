@@ -1,0 +1,19 @@
+Task0:
+  Worst case Time complexity : O(1)
+  Reason : Array element access using index is O(1) complexity.
+  
+Task1:
+  Worst case Time complexity : O(n)
+  Reason: 2 separate 'for' loops iterating over every element in each row.Adding element to a set is O(1) operation.
+ 
+Task2:
+  Worst case Time complexity : O(n)
+  Reason: 2 separate 'for' loops iterating over every element in each row.Adding values is a O(1) operation
+  
+Task3:
+  Worst case Time complexity : O(nlogn)
+  Reason: 2 separate 'for' loops going over every element in each row is O(n) but sorting a list is an O(nlogn) operation.Adding element to a set is O(1) operation.
+
+Task4:
+  Worst case Time complexity : O(nlogn)
+  Reason: 4 separate 'for' loops going over every element in each row is O(n) but sorting a list is an O(nlogn) operation.Adding element to a set is O(1) operation.
